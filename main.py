@@ -1,0 +1,1 @@
+print("I have succesfully completed this guide and I will subscribe to A guy learning ML")
